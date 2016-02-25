@@ -1,0 +1,13 @@
+Exam : 
+******************************************
+Minor Part 
+
+UML - Short Answer
+GitHub - Short Answer
+******************************************
+Major Part - Coding
+
+MVC Pattern
+Observer Pattern
+Strategy Pattern
+Decorator Pattern
